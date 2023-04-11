@@ -1,0 +1,30 @@
+body {
+  animation-direction: alternate;
+  rotate: 100rep;
+  background-color: blue;
+  motion-rotation: reverse;
+  background-image: ("../src/images/image2/");
+}
+
+
+
+/* h1,main,body {
+  font-family: "Space Mono", monospace;
+  font-size: clamp(17px, 4vw, 23px);
+  float: right;
+  rotate: 64rep;
+  background-color: blueviolet;
+} */
+
+ p {
+  font-family: "Space Mono", monospace;
+  font-size: clamp(17px, 4vw, 23px);
+  rotate: 87rep;
+  background-color: blueviolet;
+
+} 
+
+img {
+  float: right;
+  rotate: 64rep;
+}
